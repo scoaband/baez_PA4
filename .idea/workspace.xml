@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9827a37-3270-4c80-919d-83d74e364dd5" name="Default Changelist" comment="" />
+    <list default="true" id="d9446a95-9db4-4e14-9a0a-74b16a37ef0c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
+  <component name="ProjectId" id="1T22Qy6nsRn5ibweJp6yQP99am8" />
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Scoab\OneDrive\Documents\GitHub\baez_PA4" />
+      <recent name="C:\Users\Scoab\OneDrive\Documents\GitHub\baez_PA4\src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -37,6 +37,12 @@
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="baez_p1.Application" />
       <module name="baez_PA4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baez_p1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -52,11 +58,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f9827a37-3270-4c80-919d-83d74e364dd5" name="Default Changelist" comment="" />
-      <created>1572635615118</created>
+      <changelist id="d9446a95-9db4-4e14-9a0a-74b16a37ef0c" name="Default Changelist" comment="" />
+      <created>1572643857044</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572635615118</updated>
+      <updated>1572643857044</updated>
     </task>
     <servers />
   </component>
