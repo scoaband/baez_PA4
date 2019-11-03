@@ -1,9 +1,7 @@
 package baez_p1;
-
-
 import java.io.IOException;
 
-public class Application extends DuplicateRemover {
+public abstract class Application {
     public static void main(String[] arg) throws IOException {
 
         DuplicateRemover duplicateRemover = new DuplicateRemover();

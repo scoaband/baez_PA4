@@ -1,0 +1,5 @@
+hi: 75
+el: 75
+hello: 75
+hola: 150
+Hola: 75
